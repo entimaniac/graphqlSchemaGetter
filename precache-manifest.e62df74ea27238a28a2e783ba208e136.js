@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8278b2f5e053244cabca76d0296d1ad6",
+    "revision": "d8c02ee2b07d8fd543ba98900b39ce06",
     "url": "/entimaniac/graphqlSchemaGetter/index.html"
   },
   {
-    "revision": "e5b155b918311e5ea962",
-    "url": "/entimaniac/graphqlSchemaGetter/static/css/main.d1b05096.chunk.css"
+    "revision": "ca0c6c541d3ca0488061",
+    "url": "/entimaniac/graphqlSchemaGetter/static/css/main.5ecd60fb.chunk.css"
   },
   {
     "revision": "54db2d3374182633b558",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/entimaniac/graphqlSchemaGetter/static/js/2.705b377f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e5b155b918311e5ea962",
-    "url": "/entimaniac/graphqlSchemaGetter/static/js/main.71d28bd4.chunk.js"
+    "revision": "ca0c6c541d3ca0488061",
+    "url": "/entimaniac/graphqlSchemaGetter/static/js/main.72bfed31.chunk.js"
   },
   {
     "revision": "f43137627d4717fc6f6b",
