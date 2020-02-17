@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/entimaniac/graphqlSchemaGetter/precache-manifest.e62df74ea27238a28a2e783ba208e136.js"
+  "/entimaniac/graphqlSchemaGetter/precache-manifest.a5238f504aad84418d56d19ecb22a907.js"
 );
 
 self.addEventListener('message', (event) => {
