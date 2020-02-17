@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/entimaniac/graphqlSchemaGetter/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/entimaniac/graphqlSchemaGetter/static/js/main.5f8f66a1.chunk.js",
-    "main.js.map": "/entimaniac/graphqlSchemaGetter/static/js/main.5f8f66a1.chunk.js.map",
-    "runtime-main.js": "/entimaniac/graphqlSchemaGetter/static/js/runtime-main.21ca733b.js",
-    "runtime-main.js.map": "/entimaniac/graphqlSchemaGetter/static/js/runtime-main.21ca733b.js.map",
-    "static/js/2.7b5843f9.chunk.js": "/entimaniac/graphqlSchemaGetter/static/js/2.7b5843f9.chunk.js",
-    "static/js/2.7b5843f9.chunk.js.map": "/entimaniac/graphqlSchemaGetter/static/js/2.7b5843f9.chunk.js.map",
-    "index.html": "/entimaniac/graphqlSchemaGetter/index.html",
-    "precache-manifest.a5238f504aad84418d56d19ecb22a907.js": "/entimaniac/graphqlSchemaGetter/precache-manifest.a5238f504aad84418d56d19ecb22a907.js",
-    "service-worker.js": "/entimaniac/graphqlSchemaGetter/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/entimaniac/graphqlSchemaGetter/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.7b5843f9.chunk.js.LICENSE.txt": "/entimaniac/graphqlSchemaGetter/static/js/2.7b5843f9.chunk.js.LICENSE.txt"
+    "main.css": "/graphqlSchemaGetter/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/graphqlSchemaGetter/static/js/main.61c1f87d.chunk.js",
+    "main.js.map": "/graphqlSchemaGetter/static/js/main.61c1f87d.chunk.js.map",
+    "runtime-main.js": "/graphqlSchemaGetter/static/js/runtime-main.e73598e9.js",
+    "runtime-main.js.map": "/graphqlSchemaGetter/static/js/runtime-main.e73598e9.js.map",
+    "static/js/2.7b5843f9.chunk.js": "/graphqlSchemaGetter/static/js/2.7b5843f9.chunk.js",
+    "static/js/2.7b5843f9.chunk.js.map": "/graphqlSchemaGetter/static/js/2.7b5843f9.chunk.js.map",
+    "index.html": "/graphqlSchemaGetter/index.html",
+    "precache-manifest.aef109341038a7f03ae1e2072c8102cf.js": "/graphqlSchemaGetter/precache-manifest.aef109341038a7f03ae1e2072c8102cf.js",
+    "service-worker.js": "/graphqlSchemaGetter/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/graphqlSchemaGetter/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7b5843f9.chunk.js.LICENSE.txt": "/graphqlSchemaGetter/static/js/2.7b5843f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.21ca733b.js",
+    "static/js/runtime-main.e73598e9.js",
     "static/js/2.7b5843f9.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5f8f66a1.chunk.js"
+    "static/js/main.61c1f87d.chunk.js"
   ]
 }
