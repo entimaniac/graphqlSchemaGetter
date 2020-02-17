@@ -35,6 +35,15 @@ class App extends React.Component {
         }
     }
 
+    downloadTxtFile = () => {
+        const element = document.createElement("a");
+        const file = new Blob([this.state.output], {type: 'text/plain'});
+        element.href = URL.createObjectURL(file);
+        element.download = "schema.graphql";
+        document.body.appendChild(element);
+        element.click();
+    };
+
     render() {
         return (
             <div className="App">
@@ -45,19 +54,22 @@ class App extends React.Component {
                         here).</p>
 
                     <br/><br/>
+
                     <form onSubmit={this.handleSubmit}>
                         JSON Input:
                         <div>
-
                             <textarea value={this.state.inputJson} onChange={this.handleChange}/>
-                        </div>
-                        Output:
-                        <div>
-
-                            <textarea value={this.state.output} readOnly={true}/>
                         </div>
                         <input type="submit" value="Convert"/>
                     </form>
+
+                    Output:
+                    <div>
+                        <textarea value={this.state.output} readOnly={true}/>
+                    </div>
+                    <div>
+                        <button onClick={this.downloadTxtFile}>Export File</button>
+                    </div>
                 </header>
             </div>
         );
