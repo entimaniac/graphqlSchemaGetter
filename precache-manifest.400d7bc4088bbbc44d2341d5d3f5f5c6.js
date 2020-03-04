@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a35cc5e379a8e5da734782fe12a93f4",
+    "revision": "bf56c8c5255e16d955430146cd094a1b",
     "url": "/graphqlSchemaGetter/index.html"
   },
   {
